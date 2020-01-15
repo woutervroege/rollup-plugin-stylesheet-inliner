@@ -1,0 +1,29 @@
+{
+  "name": "rollup-plugin-stylesheet-inliner",
+  "version": "0.1.0",
+  "description": "Rollup plugin that replaces `<link rel=\"stylesheet\">` with inline `<style>` tags",
+  "main": "src/rollup-plugin-stylesheet-inliner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woutervroege/rollup-plugin-stylesheet-inliner.git"
+  },
+  "keywords": [
+    "rollup",
+    "plugin",
+    "css",
+    "stylesheet",
+    "inline"
+  ],
+  "author": "Wouter Vroege & Sam Prinssen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woutervroege/rollup-plugin-stylesheet-inliner/issues"
+  },
+  "homepage": "https://github.com/woutervroege/rollup-plugin-stylesheet-inliner#readme",
+  "devDependencies": {
+    "magic-string": "^0.25.6"
+  }
+}
