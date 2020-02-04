@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-stylesheet-inliner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Rollup plugin that replaces `<link rel=\"stylesheet\">` with inline `<style>` tags",
   "main": "src/rollup-plugin-stylesheet-inliner.js",
   "scripts": {
